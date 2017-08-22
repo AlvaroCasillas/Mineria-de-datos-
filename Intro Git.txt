@@ -1,4 +1,8 @@
 Cuando hay cambios:
 1.- add (registra el cambio localmente pero solo los que quiero)
 2.- commit (tomo la "foto" de los archivos localmente)
-3.- push (subo la nueva "foto" al servidor) 
+3.- push (subo la nueva "foto" al servidor)
+
+Para usar add se necesita la ruta donde está guardado el archivo localmente
+En el caso del commit solo se utiliza git commit -m "message"
+Para el push usar la url del repositorio 
