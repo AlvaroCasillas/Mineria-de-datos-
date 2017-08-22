@@ -1,0 +1,4 @@
+Cuando hay cambios:
+1.- add (registra el cambio localmente pero solo los que quiero)
+2.- commit (tomo la "foto" de los archivos localmente)
+3.- push (subo la nueva "foto" al servidor) 
